@@ -25,3 +25,5 @@ The application consists of three classes:
 **class FileInfo()** - The class is designed to handle files. This class implements functions that define file extensions, encoding, text splitting into words, the most frequent and rare words, the average word length, the ratio of syllables to words, and the total number of vowels and consonants in the file.
 
 **class FolderInfo()** - The class is designed to handle folders. This class implements functions that display a list of folders and files in the server folder. The class is able to filter files by the extension specified by the user.
+
+The application has been deployed on the Heroku server. To scan new folders and directories that are added after the program is started, it is sufficient to push them to the github project to **server files**. The server is configured for automatic deploys, so we do not need to stop the application.
