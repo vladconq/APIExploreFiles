@@ -1,7 +1,7 @@
 # APIExploreFiles
 ## Test Project for EPAM
 
-https://api-explore-files.herokuapp.com/
+[SERVER ADDRESS](https://api-explore-files.herokuapp.com/).
 
 - To display the contents of the server folder, just type the server address.  
 
