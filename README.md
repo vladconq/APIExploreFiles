@@ -11,9 +11,9 @@
 
 - To display information about a specific word, type it in the following format: 
 
-> /word=WORD (WORD must be in English or Russian)
+> https://api-explore-files.herokuapp.com/word=python (WORD must be in English or Russian)
 
 -The API works with the main file extensions, such as '*txt, pdf, docx, html.*'
 To display files of a specific format, type the desired extension in the following format:
 
-> /ext=txt or /ext=pdf or /ext=docx or /ext=html
+> https://api-explore-files.herokuapp.com/ext=txt
