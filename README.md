@@ -18,7 +18,7 @@ To display files of a specific format, type the desired extension in the followi
 
 > https://api-explore-files.herokuapp.com/ext=txt
 
-The application consists of three classes:
+**app.py** stores the main API logic and consists of three classes:
 
 **class WordInfo()** - The class is designed to handle words. This class implements functions that calculate the number of syllables, the number of vowels and consonants. Correctly processed words of English and Russian.
 
