@@ -7,7 +7,7 @@
 
 - To display information about a specific file, type its index in the following format: 
 
-> /file=INDEX (INDEX must be positive integer)
+> https://api-explore-files.herokuapp.com/file=7 (index must be positive integer)
 
 - To display information about a specific word, type it in the following format: 
 
