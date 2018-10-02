@@ -20,7 +20,7 @@ To display files of a specific format, type the desired extension in the followi
 
 The application consists of three classes:
 
-class WordInfo() - The class is designed to handle words. This class implements functions that calculate the number of syllables, the number of vowels and consonants. Correctly processed words of English and Russian.
+'''class WordInfo()''' - The class is designed to handle words. This class implements functions that calculate the number of syllables, the number of vowels and consonants. Correctly processed words of English and Russian.
 
 class FileInfo() - The class is designed to handle files. This class implements functions that define file extensions, encoding, text splitting into words, the most frequent and rare words, the average word length, the ratio of syllables to words, and the total number of vowels and consonants in the file.
 
