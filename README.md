@@ -27,3 +27,5 @@ The application consists of three classes:
 **class FolderInfo()** - The class is designed to handle folders. This class implements functions that display a list of folders and files in the server folder. The class is able to filter files by the extension specified by the user.
 
 The application has been deployed on the Heroku server. To scan new folders and directories that are added after the program is started, it is sufficient to push them to the github project to **server files**. The server is configured for automatic deploys, so we do not need to stop the application.
+
+**templates** store html pages that will be displayed if something goes wrong.
